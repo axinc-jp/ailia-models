@@ -66,6 +66,7 @@ If you would like to try on your computer:
 | [audioset_tagging_cnn](/audio_processing/audioset_tagging_cnn/) | [PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition](https://github.com/qiuqiangkong/audioset_tagging_cnn) | Pytorch | 1.2.9 and later | |
 | [clap](/audio_processing/clap/) | [CLAP](https://github.com/LAION-AI/CLAP) | Pytorch | 1.2.6 and later | |
 | [microsoft clap](/audio_processing/msclap/) | [CLAP](https://github.com/microsoft/CLAP) | Pytorch | 1.2.11 and later | |
+| [vggish](/audio_processing/vggish/) | [VGGish](https://github.com/harritaylor/torchvggish) | Pytorch | 1.2.9 and later | |
 
 ### Music enhancement
 
